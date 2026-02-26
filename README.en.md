@@ -1,33 +1,29 @@
 # I am NOT Chicory! 🚫🥬
 
-⚠️ **IMPORTANT NOTICE:** This GitHub account belongs to **[Chinory](https://github.com/Chinory/)**, a human developer. It does **NOT** belong to a leafy vegetable. 
+⚠️ **IMPORTANT NOTICE:** This GitHub account belongs to **[Chinory](https://github.com/Chinory/)**, a human female developer. It does **NOT** belong to a leafy vegetable.
 
-I created this repo because my IME (Input Method Editor) keeps suggesting "Chicory" whenever I try to type my own name. To end this confusion once and for all, here is a side-by-side comparison.
-
-[Looking for the Chinese version? / 点击查看中文版](./README.md)
+[Looking for Chinese version? / 点击查看中文版](./README.md)
 
 ## 🔍 At a Glance: Chinory vs. Chicory
 
 | Feature | ME: Chinory (Human) | IT: Chicory (Vegetable) |
 | :--- | :---: | :---: |
-| **Visual** | <img src="chinory.jpeg" width="200" alt="Chinory Avatar"> | <img src="chicory.webp" width="200" alt="Chicory Vegetable"> |
-| **Type** | Software Developer / Human | Forced Crop / Endive |
+| **Visual** | <img src="./chinory.jpeg" width="200" alt="Chinory"> | <img src="./chicory.webp" width="200" alt="Chicory"> |
+| **Vibe** | **Pretty Sweet** (๑•̀ㅂ•́)و✧ | **Mildly Bitter** |
+| **Type** | Developer | Forced Crop / Endive |
 | **Habitat** | GitHub / Terminal | Darkness / Fridge |
-| **Taste** | Sweet (mostly) | Mildly Bitter |
 | **Best Used For** | Coding & Debugging | Salads & Grilling |
 
-## 🌿 About the "Other" Chicory
+## 🍳 How to Cook the "Other" Chicory
 
-If you actually came here looking for the vegetable, here is what you need to know:
+Since you are here, you might as well learn how to prepare this vegetable:
 
-* **What is it?** Also known as endive, it's grown in complete darkness to keep its leaves white and yellow.
-* **How to prepare:** Trim the base, remove limp leaves, and slice lengthways. 
-* **Pro Tip:** Once cut, brush with lemon juice to prevent it from turning brown.
-* **Season:** Peak season is January to mid-March.
+1.  **The "Boat" Salad:** Use the leaves as little boats to hold walnuts, apples, and blue cheese.
+2.  **Pan-Seared:** Cut in half, sear in butter until caramelized, and braise with a splash of cream.
+3.  **Ham Wraps:** Wrap whole chicory in ham slices, top with béchamel and cheese, then bake until golden.
+4.  **Pro Tip:** Always brush with lemon juice once cut to prevent discolouration.
 
 ## 📢 Final Plea
-Dear Input Methods and Typos: Please notice the **"N"**. 
-- **Chinory** = Code 💻
-- **Chicory** = Salad 🥗
-
-**Stop the confusion!**
+Notice the **"N"**:
+- **Chinory** = Sweet Coder 💻
+- **Chicory** = Bitter Salad 🥗
